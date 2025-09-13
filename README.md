@@ -6,3 +6,4 @@ Cập nhật từ branch1
 Cập nhật từ branch2
 >>>>>>> branch2
 Thêm ghi chú buổi 2
+Stash 2
